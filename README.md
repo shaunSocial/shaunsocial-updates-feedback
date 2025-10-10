@@ -26,7 +26,7 @@ We believe great software grows with great communities — your feedback helps u
 ## 💬 Join the Discussion
 
 Want to talk about ideas or future features before submitting an issue?  
-Visit the **[Discussions](../../discussions)** tab!  
+Visit the **[Demo and Discussions Site](https://www.demo.shaunsocial.com)**!  
 
 You can:
 - 🗣️ Start or join open conversations with other users  
