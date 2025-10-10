@@ -1,0 +1,9 @@
+name: 💬 Feedback
+description: Share general feedback or suggestions
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: textarea
+    attributes:
+      label: Your feedback
+      description: Tell us what you think about ShaunSocial or this repository.
