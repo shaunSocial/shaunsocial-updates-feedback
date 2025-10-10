@@ -11,6 +11,7 @@ Here you can:
 We believe great software grows with great communities — your feedback helps us improve ShaunSocial for everyone.
 
 🔗 **Official site:** [https://www.shaunsocial.com](https://www.shaunsocial.com)  
+🔗 **Demo site:** [https://www.demo.shaunsocial.com](https://www.demo.shaunsocial.com)  
 📧 **Support:** support@shaunsocial.com  
 
 ---
