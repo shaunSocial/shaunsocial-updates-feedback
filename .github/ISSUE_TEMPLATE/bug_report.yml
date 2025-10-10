@@ -1,0 +1,22 @@
+name: 🐞 Bug Report
+description: Report a bug to help us improve ShaunSocial
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of the issue.
+  - type: input
+    attributes:
+      label: Version
+      description: Which version of ShaunSocial are you using?
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+  - type: textarea
+    attributes:
+      label: Expected behavior
+  - type: textarea
+    attributes:
+      label: Screenshots (optional)
