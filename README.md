@@ -23,6 +23,19 @@ We believe great software grows with great communities — your feedback helps u
 4. Our team will review and respond as soon as possible.
 
 ---
+## 💬 Join the Discussion
+
+Want to talk about ideas or future features before submitting an issue?  
+Visit the **[Discussions](../../discussions)** tab!  
+
+You can:
+- 🗣️ Start or join open conversations with other users  
+- 💭 Share ideas or workflows  
+- 📈 Discuss improvements to ShaunSocial  
+
+It’s a great place for brainstorming and sharing best practices with other community members.
+
+---
 
 ### 🗓️ Latest Version
 See [CHANGELOG.md](CHANGELOG.md) for details on updates and improvements.
