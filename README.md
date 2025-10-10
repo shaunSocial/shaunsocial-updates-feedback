@@ -38,6 +38,6 @@ It’s a great place for brainstorming and sharing best practices with other com
 ---
 
 ### 🗓️ Latest Version
-See [CHANGELOG.md](https://github.com/shaunSocial/shaunsocial-updates-feedback/tree/c1c3a06f950ce40a4104f3fafa6d621b2df2b40d/Changelogs ) for details on updates and improvements.
+See [CHANGELOGS](https://github.com/shaunSocial/shaunsocial-updates-feedback/tree/c1c3a06f950ce40a4104f3fafa6d621b2df2b40d/Changelogs ) for details on updates and improvements.
 
 Thank you for being part of the ShaunSocial community 💙
