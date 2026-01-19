@@ -39,6 +39,6 @@ It’s a great place for brainstorming and sharing best practices with other com
 
 ### 🗓️ Latest Version and change logs
 
-See [CHANGELOGS](https://github.com/shaunSocial/shaunsocial-updates-feedback/tree/c1c3a06f950ce40a4104f3fafa6d621b2df2b40d/Changelogs ) for details on updates and improvements.
+See [CHANGELOGS](https://github.com/shaunSocial/shaunsocial-updates-feedback/tree/main/Changelogs) for details on updates and improvements.
 
 See [Releases](https://github.com/shaunSocial/shaunsocial-updates-feedback/releases) for detailed changes source code each release. 
