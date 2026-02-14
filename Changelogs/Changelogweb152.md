@@ -1,4 +1,4 @@
-# Version 1.5.1 – changes
+# Version 1.5.2 – changes
 
 ### Added, improved and bug fixed
 - Admin Panel UI Improvements
